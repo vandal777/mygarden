@@ -25,6 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "SUPABASE_URL": "https://nunpybuboqokkcjldkki.supabase.co",
+      "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im51bnB5YnVib3Fva2tjamxka2tpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg1NTMwMzEsImV4cCI6MjA3NDEyOTAzMX0.VzLAjewnSqNxXqxxzrMYvhH8kwU2MBuW-naUwh84pBQ"
+    },
+    "scheme": "jardiapp"
   }
 }
